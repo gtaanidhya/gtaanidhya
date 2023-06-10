@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Anidhya gupta
 - 🏫 I’m studying in IIT(ISM) Dhanbad
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Front-end Projects of web development 
+- 👀 I’m aspiring to become a Data Analyst
+- Available to collaborate in projects
 - 📫 Mail me at: guptaanidhya.19je0131@cve.iitism.ac.in or Contact me at Linkedin: https://www.linkedin.com/in/anidhya-gupta-68977113b 
 
 <!---
