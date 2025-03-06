@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anidhya gupta
 - 🏫 I’m studying in IIT(ISM) Dhanbad
-- 👀 I’m aspiring to become a Data Analyst
+- 👀 I’m aspiring to become a Full stack developer
 - Available to collaborate in projects
 - 📫 Mail me at: guptaanidhya2000.fb@gmail.com or Contact me at Linkedin: https://www.linkedin.com/in/anidhya-gupta-68977113b 
 
